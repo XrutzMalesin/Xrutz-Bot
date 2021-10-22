@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/KV81xXM/Vimdhayak-bot.jpg" alt="Xeon" width="170" />
+<img src="https://telegra.ph/file/a97d29ee6f3b676f4d145.jpg" alt="Xeon" width="170" />
 
-## Vimdhayak Bot
+## Xrutz Selfbot
 
 </div>
 

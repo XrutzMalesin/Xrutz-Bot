@@ -1,18 +1,18 @@
 <div align="center">
-<img src="https://telegra.ph/file/a97d29ee6f3b676f4d145.jpg" alt="Xeon" width="170" />
+<img src="https://telegra.ph/file/a97d29ee6f3b676f4d145.jpg" alt="XrutzBot" width="170" />
 
 ## Xrutz Selfbot
 
 </div>
 
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=Hindi and English&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bahasa&message=Indonesia&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/XrutzMalesin"><img title="Author" src="https://img.shields.io/badge/Author-Xrutz-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="XrutzOffc" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 # Requirements
@@ -31,43 +31,41 @@
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/Xeon-Self-BOT.git
-🦄 cd Vimdhayak-Bot
-🦄 npm start
+$ git clone https://github.com/XrutzMalesin/a-master.git
+$ cd a-master
+$ npm start
 ```
 ## For Termux
 ```bash
-🦄 apt update
-🦄 apt upgrade
-🦄 pkg update && pkg upgrade 
-🦄 pkg install hot
-🦄 pkg install bash
-🦄 pkg install libwebp
-🦄 pkg install git -y
-🦄 pkg install nodejs -y 
-🦄 pkg install ffmpeg -y 
-🦄 pkg install wget
-🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/Vimdhayak-Bot
-🦄 cd Vimdhayak-Bot
-🦄 npm install
-🦄 npm start
-🦄 scan qr code within 15seconds
+$ apt update
+$ apt upgrade
+$ pkg update && pkg upgrade 
+$ pkg install hot
+$ pkg install bash
+$ pkg install libwebp
+$ pkg install git -y
+$ pkg install nodejs -y 
+$ pkg install ffmpeg -y 
+$ pkg install wget
+$ pkg install imagemagick -y
+$ git clone https://github.com/XrutzMalesin/a-master
+$ cd a-master
+$ npm start
 ```
 
-## Connect With Me
-My Personal Chat👇
+## Ingin berteman sm gw? Contact!
+Whatsapp Pribadi
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/6283871990243"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-My Whatsapp Group👇
+Bot Whatsapp Group
 <p align="center">
  <a href="https://chat.whatsapp.com/FpE1TXXUzuk0TASzYwX8ZM"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`XrutzBot`](https://github.com/XrutzMalesin)

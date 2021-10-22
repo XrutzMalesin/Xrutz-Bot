@@ -2,6 +2,7 @@
 <img src="https://telegra.ph/file/a97d29ee6f3b676f4d145.jpg" alt="XrutzBot" width="170" />
 
 ## Xrutz Selfbot
+## session.json nya di ganti sama punya lu!
 
 </div>
 
